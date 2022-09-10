@@ -1,0 +1,12 @@
+{
+	"private": true,
+	"scripts": {
+		"dev": "echo TODO",
+		"build": "echo TODO",
+		"preview": "echo TODO",
+		"format": "prettier --ignore-path .gitignore --write ."
+	},
+	"devDependencies": {
+		"prettier": "^2.7.1"
+	}
+}
